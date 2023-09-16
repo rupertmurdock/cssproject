@@ -1,0 +1,29 @@
+@media screen and (min-width: 600px)
+{
+    body {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    .family {
+        padding: 5px;
+    }
+}
+body {
+    background-image: url('Untitled.png');
+}
+.paragraph {
+    letter-spacing: 1px;
+    text-align: center;
+    text-align-last: left;
+}
+.family {
+    align-items: center;
+}
+
+.me {
+    float: right;
+    padding-left: 10px;
+}
