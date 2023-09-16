@@ -57,7 +57,12 @@ img {
     margin-bottom: 15px;
     
 }
-
+tr {
+    background-color:blanchedalmond;
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: double;
+}
 .bordered-table {
     border-collapse: collapse; 
     background-color: white;
